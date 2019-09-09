@@ -1,58 +1,61 @@
 package com.zyuanyuan.shop.entity;
 
-import com.sun.scenario.effect.impl.prism.PrImage;
-
 import java.util.Date;
 
 public class Area {
-    //ID
-    private Integer areaId;
-    //名称
-    private String areaName;
-    //权重
-    private Integer priority;
-    //创建时间
-    private Date createTime;
-    //更新时间
-    private Date lastEditTime;
+	private Long areaId;
+	private String areaName;
+	private String areaDesc;
+	private Integer priority;
+	private Date createTime;
+	private Date lastEditTime;
 
-    public Integer getAreaId() {
-        return areaId;
-    }
+	public Long getAreaId() {
+		return areaId;
+	}
 
-    public void setAreaId(Integer areaId) {
-        this.areaId = areaId;
-    }
+	public void setAreaId(Long areaId) {
+		this.areaId = areaId;
+	}
 
-    public String getAreaName() {
-        return areaName;
-    }
+	public String getAreaName() {
+		return areaName;
+	}
 
-    public void setAreaName(String areaName) {
-        this.areaName = areaName;
-    }
+	public void setAreaName(String areaName) {
+		this.areaName = areaName;
+	}
 
-    public Integer getPriority() {
-        return priority;
-    }
+	public String getAreaDesc() {
+		return areaDesc;
+	}
 
-    public void setPriority(Integer priority) {
-        this.priority = priority;
-    }
+	public void setAreaDesc(String areaDesc) {
+		this.areaDesc = areaDesc;
+	}
 
-    public Date getCreateTime() {
-        return createTime;
-    }
+	public Integer getPriority() {
+		return priority;
+	}
 
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
+	public void setPriority(Integer priority) {
+		this.priority = priority;
+	}
 
-    public Date getLastEditTime() {
-        return lastEditTime;
-    }
+	public Date getCreateTime() {
+		return createTime;
+	}
 
-    public void setLastEditTime(Date lastEditTime) {
-        this.lastEditTime = lastEditTime;
-    }
+	public void setCreateTime(Date createTime) {
+		this.createTime = createTime;
+	}
+
+	public Date getLastEditTime() {
+		return lastEditTime;
+	}
+
+	public void setLastEditTime(Date lastEditTime) {
+		this.lastEditTime = lastEditTime;
+	}
+
 }

@@ -1,134 +1,185 @@
 package com.zyuanyuan.shop.entity;
 
 import java.util.Date;
+import java.util.List;
 
 public class Shop {
-    private Long shopId;
-    private String shopName;
-    private String shopDesc;
-    private String shopAddr;
-    private String phone;
-    private String shopImg;
-    private Integer priority;
-    private Date createTime;
-    private Date lastEditTime;
-    //-1.不可用 0.审核中 1.可用
-    private Integer enableStatus;
-    //超级管理员给店家的提醒
-    private String advice;
-    private Area area;
-    private PersonInfo owner;
-    private ShopCategory shopCategory;
 
-    public Long getShopId() {
-        return shopId;
-    }
+	private Long shopId;
+	private Long ownerId;
+	private Long shopCategoryId;
+	private String shopName;
+	private String shopDesc;
+	private String shopAddr;
+	private String phone;
+	private String shopImg;
+	private Double longitude;
+	private Double latitude;
+	private Integer priority;
+	private Date createTime;
+	private Date lastEditTime;
+	private Integer enableStatus;
+	private String advice;
 
-    public void setShopId(Long shopId) {
-        this.shopId = shopId;
-    }
+	private List<ShopAuthMap> staffList;
+	private Area area;
+	private ShopCategory shopCategory;
+	private ShopCategory parentCategory;
 
-    public String getShopName() {
-        return shopName;
-    }
+	public Long getShopId() {
+		return shopId;
+	}
 
-    public void setShopName(String shopName) {
-        this.shopName = shopName;
-    }
+	public void setShopId(Long shopId) {
+		this.shopId = shopId;
+	}
 
-    public String getShopDesc() {
-        return shopDesc;
-    }
+	public Long getOwnerId() {
+		return ownerId;
+	}
 
-    public void setShopDesc(String shopDesc) {
-        this.shopDesc = shopDesc;
-    }
+	public void setOwnerId(Long ownerId) {
+		this.ownerId = ownerId;
+	}
 
-    public String getShopAddr() {
-        return shopAddr;
-    }
+	public Long getShopCategoryId() {
+		return shopCategoryId;
+	}
 
-    public void setShopAddr(String shopAddr) {
-        this.shopAddr = shopAddr;
-    }
+	public void setShopCategoryId(Long shopCategoryId) {
+		this.shopCategoryId = shopCategoryId;
+	}
 
-    public String getPhone() {
-        return phone;
-    }
+	public String getShopName() {
+		return shopName;
+	}
 
-    public void setPhone(String phone) {
-        this.phone = phone;
-    }
+	public void setShopName(String shopName) {
+		this.shopName = shopName;
+	}
 
-    public String getShopImg() {
-        return shopImg;
-    }
+	public String getShopDesc() {
+		return shopDesc;
+	}
 
-    public void setShopImg(String shopImg) {
-        this.shopImg = shopImg;
-    }
+	public void setShopDesc(String shopDesc) {
+		this.shopDesc = shopDesc;
+	}
 
-    public Integer getPriority() {
-        return priority;
-    }
+	public String getShopAddr() {
+		return shopAddr;
+	}
 
-    public void setPriority(Integer priority) {
-        this.priority = priority;
-    }
+	public void setShopAddr(String shopAddr) {
+		this.shopAddr = shopAddr;
+	}
 
-    public Date getCreateTime() {
-        return createTime;
-    }
+	public String getPhone() {
+		return phone;
+	}
 
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
 
-    public Date getLastEditTime() {
-        return lastEditTime;
-    }
+	public String getShopImg() {
+		return shopImg;
+	}
 
-    public void setLastEditTime(Date lastEditTime) {
-        this.lastEditTime = lastEditTime;
-    }
+	public void setShopImg(String shopImg) {
+		this.shopImg = shopImg;
+	}
 
-    public Integer getEnableStatus() {
-        return enableStatus;
-    }
+	public Double getLongitude() {
+		return longitude;
+	}
 
-    public void setEnableStatus(Integer enableStatus) {
-        this.enableStatus = enableStatus;
-    }
+	public void setLongitude(Double longitude) {
+		this.longitude = longitude;
+	}
 
-    public String getAdvice() {
-        return advice;
-    }
+	public Double getLatitude() {
+		return latitude;
+	}
 
-    public void setAdvice(String advice) {
-        this.advice = advice;
-    }
+	public void setLatitude(Double latitude) {
+		this.latitude = latitude;
+	}
 
-    public Area getArea() {
-        return area;
-    }
+	public Integer getPriority() {
+		return priority;
+	}
 
-    public void setArea(Area area) {
-        this.area = area;
-    }
+	public void setPriority(Integer priority) {
+		this.priority = priority;
+	}
 
-    public PersonInfo getOwner() {
-        return owner;
-    }
+	public Date getCreateTime() {
+		return createTime;
+	}
 
-    public void setOwner(PersonInfo owner) {
-        this.owner = owner;
-    }
+	public void setCreateTime(Date createTime) {
+		this.createTime = createTime;
+	}
 
-    public ShopCategory getShopCategory() {
-        return shopCategory;
-    }
+	public Date getLastEditTime() {
+		return lastEditTime;
+	}
 
-    public void setShopCategory(ShopCategory shopCategory) {
-        this.shopCategory = shopCategory;
-    }
+	public void setLastEditTime(Date lastEditTime) {
+		this.lastEditTime = lastEditTime;
+	}
+
+	public Integer getEnableStatus() {
+		return enableStatus;
+	}
+
+	public void setEnableStatus(Integer enableStatus) {
+		this.enableStatus = enableStatus;
+	}
+
+	public List<ShopAuthMap> getStaffList() {
+		return staffList;
+	}
+
+	public void setStaffList(List<ShopAuthMap> staffList) {
+		this.staffList = staffList;
+	}
+
+	public Area getArea() {
+		return area;
+	}
+
+	public void setArea(Area area) {
+		this.area = area;
+	}
+
+	public ShopCategory getShopCategory() {
+		return shopCategory;
+	}
+
+	public void setShopCategory(ShopCategory shopCategory) {
+		this.shopCategory = shopCategory;
+	}
+
+	public String getAdvice() {
+		return advice;
+	}
+
+	public void setAdvice(String advice) {
+		this.advice = advice;
+	}
+
+	public String toString() {
+		return "[shopId=" + shopId + ", shopName=" + shopName + "]";
+	}
+
+	public ShopCategory getParentCategory() {
+		return parentCategory;
+	}
+
+	public void setParentCategory(ShopCategory parentCategory) {
+		this.parentCategory = parentCategory;
+	}
+
 }

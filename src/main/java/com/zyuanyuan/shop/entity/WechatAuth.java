@@ -3,40 +3,50 @@ package com.zyuanyuan.shop.entity;
 import java.util.Date;
 
 public class WechatAuth {
-    private Long wechatAuthId;
-    private String openId;
-    private Date createTime;
-    private PersonInfo personInfo;
+	private Long wechatAuthId;
+	private Long userId;
+	private String openId;
+	private Date createTime;
+	private PersonInfo personInfo;
 
-    public Long getWechatAuthId() {
-        return wechatAuthId;
-    }
+	public Long getWechatAuthId() {
+		return wechatAuthId;
+	}
 
-    public void setWechatAuthId(Long wechatAuthId) {
-        this.wechatAuthId = wechatAuthId;
-    }
+	public void setWechatAuthId(Long wechatAuthId) {
+		this.wechatAuthId = wechatAuthId;
+	}
 
-    public String getOpenId() {
-        return openId;
-    }
+	public Long getUserId() {
+		return userId;
+	}
 
-    public void setOpenId(String openId) {
-        this.openId = openId;
-    }
+	public void setUserId(Long userId) {
+		this.userId = userId;
+	}
 
-    public Date getCreateTime() {
-        return createTime;
-    }
+	public String getOpenId() {
+		return openId;
+	}
 
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
+	public void setOpenId(String openId) {
+		this.openId = openId;
+	}
 
-    public PersonInfo getPersonInfo() {
-        return personInfo;
-    }
+	public Date getCreateTime() {
+		return createTime;
+	}
 
-    public void setPersonInfo(PersonInfo personInfo) {
-        this.personInfo = personInfo;
-    }
+	public void setCreateTime(Date createTime) {
+		this.createTime = createTime;
+	}
+
+	public PersonInfo getPersonInfo() {
+		return personInfo;
+	}
+
+	public void setPersonInfo(PersonInfo personInfo) {
+		this.personInfo = personInfo;
+	}
+
 }

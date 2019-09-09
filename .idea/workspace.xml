@@ -17,75 +17,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AreaController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/web/superadmin/AreaController.java">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="152">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductCategory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductCategory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductImg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductImg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#647#663#0" expanded="true" />
-                <element signature="e#706#712#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/ShopDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopDaoTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyuanyuan/shop/dao/ShopDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunAfterTestClassCallbacks.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.9.RELEASE/spring-test-5.1.9.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AreaDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AreaDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/AreaDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,84 +50,65 @@
       <file leaf-file-name="Shop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Shop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="418">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopAuthMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopAuthMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopCategory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopCategory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserShopMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/UserShopMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopDaoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyuanyuan/shop/dao/ShopDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#935#936#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-                <element signature="e#1041#1042#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
-                <element signature="e#1161#1162#0" expanded="true" />
-                <element signature="e#1189#1190#0" expanded="true" />
-                <element signature="e#1231#1232#0" expanded="true" />
-                <element signature="e#1265#1266#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-                <element signature="e#1329#1330#0" expanded="true" />
-                <element signature="e#1375#1376#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1449#1450#0" expanded="true" />
-                <element signature="e#1480#1481#0" expanded="true" />
-                <element signature="e#1529#1530#0" expanded="true" />
-                <element signature="e#1569#1570#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-                <element signature="e#1637#1638#0" expanded="true" />
-                <element signature="e#1687#1688#0" expanded="true" />
-                <element signature="e#1731#1732#0" expanded="true" />
-                <element signature="e#1768#1769#0" expanded="true" />
-                <element signature="e#1803#1804#0" expanded="true" />
-                <element signature="e#1857#1858#0" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1945#1946#0" expanded="true" />
-                <element signature="e#1980#1981#0" expanded="true" />
-                <element signature="e#2037#2038#0" expanded="true" />
-                <element signature="e#2085#2086#0" expanded="true" />
-                <element signature="e#2118#2119#0" expanded="true" />
-                <element signature="e#2147#2148#0" expanded="true" />
-                <element signature="e#2191#2192#0" expanded="true" />
-                <element signature="e#2227#2228#0" expanded="true" />
-                <element signature="e#2256#2257#0" expanded="true" />
-                <element signature="e#2283#2284#0" expanded="true" />
-                <element signature="e#2321#2322#0" expanded="true" />
-                <element signature="e#2353#2354#0" expanded="true" />
-                <element signature="e#2389#2390#0" expanded="true" />
-                <element signature="e#2417#2418#0" expanded="true" />
-                <element signature="e#2463#2464#0" expanded="true" />
-                <element signature="e#2497#2498#0" expanded="true" />
-                <element signature="e#2542#2543#0" expanded="true" />
-                <element signature="e#2577#2578#0" expanded="true" />
-                <element signature="e#2639#2640#0" expanded="true" />
-                <element signature="e#2687#2688#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="AbstractFallbackSQLExceptionTranslator.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-jdbc/5.1.9.RELEASE/spring-jdbc-5.1.9.RELEASE.jar!/org/springframework/jdbc/support/AbstractFallbackSQLExceptionTranslator.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="269">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -194,9 +131,13 @@
       <find>c3</find>
       <find>logba</find>
       <find>setOwner</find>
-      <find>ownerId</find>
       <find>getOwner</find>
+      <find>ownerId</find>
+      <find>com.imooc.myo2o</find>
     </findStrings>
+    <replaceStrings>
+      <replace>com.zyuanyuan.shop</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -214,14 +155,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductCategory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductImg.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/AreaDao.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyuanyuan/shop/dao/AreaDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/service/AreaService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/service/impl/AreaServiceImpl.java" />
@@ -231,8 +170,24 @@
         <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/web/superadmin/AreaController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/ShopDao.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/AwardDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/HeadLineDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/LocalAuthDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/PersonInfoDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductCategoryDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductImgDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopAuthMapDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopCategoryDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserAwardMapDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserProductMapDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserShopMapDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/WechatAuthDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopAuthMap.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyuanyuan/shop/dao/ShopDaoTest.java" />
       </list>
     </option>
@@ -260,11 +215,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1860" />
-    <option name="height" value="1098" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1942" />
+    <option name="y" value="50" />
+    <option name="width" value="1840" />
+    <option name="height" value="1078" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -274,8 +229,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -439,11 +395,21 @@
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zyuanyuan" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,7 +423,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zyuanyuan.shop.dao" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\shop\src\main\java\com\zyuanyuan\shop\entity" />
+      <recent name="E:\GitHub\shop\src\main\resources\mapper" />
       <recent name="E:\GitHub\shop\src\main\resources\spring" />
       <recent name="E:\GitHub\shop\src\test" />
     </key>
@@ -474,7 +445,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShopDaoTest.testInsertShop">
+  <component name="RunManager" selected="JUnit.ShopDaoTest.testAInsertShop">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -514,6 +485,52 @@
       <option name="PACKAGE_NAME" value="com.zyuanyuan.shop.service" />
       <option name="MAIN_CLASS_NAME" value="com.zyuanyuan.shop.service.AreaServiceTest" />
       <option name="METHOD_NAME" value="testGetAreaList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShopDaoTest.testAInsertShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyuanyuan.shop.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zyuanyuan.shop.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.zyuanyuan.shop.dao.ShopDaoTest" />
+      <option name="METHOD_NAME" value="testAInsertShop" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShopDaoTest.testDUpdateShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyuanyuan.shop.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zyuanyuan.shop.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.zyuanyuan.shop.dao.ShopDaoTest" />
+      <option name="METHOD_NAME" value="testDUpdateShop" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -661,9 +678,13 @@
       <item itemvalue="JUnit.AreaDaoTest.testQueryArea" />
       <item itemvalue="JUnit.AreaServiceTest.testGetAreaList" />
       <item itemvalue="JUnit.ShopDaoTest.testInsertShop" />
+      <item itemvalue="JUnit.ShopDaoTest.testDUpdateShop" />
+      <item itemvalue="JUnit.ShopDaoTest.testAInsertShop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShopDaoTest.testAInsertShop" />
+        <item itemvalue="JUnit.ShopDaoTest.testDUpdateShop" />
         <item itemvalue="JUnit.ShopDaoTest.testInsertShop" />
         <item itemvalue="JUnit.AreaServiceTest.testGetAreaList" />
         <item itemvalue="JUnit.AreaDaoTest.testQueryArea" />
@@ -681,41 +702,48 @@
       <option name="presentableId" value="Default" />
       <updated>1567863878732</updated>
       <workItem from="1567863883185" duration="9370000" />
-      <workItem from="1567912233689" duration="20240000" />
+      <workItem from="1567912233689" duration="20307000" />
+      <workItem from="1568043611919" duration="2501000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AreaDaoTest_testQueryArea - 2019.09.08 at 15h 46m 46s.xml">
-      <configuration name="AreaDaoTest.testQueryArea" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AreaDaoTest_testQueryArea - 2019.09.08 at 15h 50m 56s.xml">
-      <configuration name="AreaDaoTest.testQueryArea" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AreaDaoTest_testQueryArea - 2019.09.08 at 15h 51m 09s.xml">
-      <configuration name="AreaDaoTest.testQueryArea" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AreaDaoTest_testQueryArea - 2019.09.08 at 15h 57m 22s.xml">
-      <configuration name="AreaDaoTest.testQueryArea" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AreaServiceTest_testGetAreaList - 2019.09.08 at 16h 10m 13s.xml">
-      <configuration name="AreaServiceTest.testGetAreaList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopDaoTest_testInsertShop - 2019.09.08 at 23h 22m 27s.xml">
+    <history-entry file="ShopDaoTest_testInsertShop - 2019.09.09 at 23h 41m 55s.xml">
       <configuration name="ShopDaoTest.testInsertShop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShopDaoTest_testInsertShop - 2019.09.08 at 23h 22m 51s.xml">
+    <history-entry file="ShopDaoTest_testInsertShop - 2019.09.09 at 23h 48m 35s.xml">
       <configuration name="ShopDaoTest.testInsertShop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShopDaoTest_testInsertShop - 2019.09.08 at 23h 27m 58s.xml">
-      <configuration name="ShopDaoTest.testInsertShop" configurationId="JUnit" />
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 05m 33s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 06m 00s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 10m 51s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 12m 12s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 14m 54s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 15m 48s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 21m 04s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testAInsertShop - 2019.09.10 at 00h 21m 40s.xml">
+      <configuration name="ShopDaoTest.testAInsertShop" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29610000" />
+    <option name="totallyTimeSpent" value="32178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1488" height="878" extended-state="6" />
+    <frame x="1938" y="40" width="1472" height="862" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -731,25 +759,25 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32987013" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32931727" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12597403" />
-      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6949384" />
+      <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24287653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25318247" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -764,367 +792,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/PersonInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/WechatAuth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/LocalAuth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/HeadLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1382#1383#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1493#1494#0" expanded="true" />
-            <element signature="e#1528#1529#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-            <element signature="e#1630#1631#0" expanded="true" />
-            <element signature="e#1669#1670#0" expanded="true" />
-            <element signature="e#1698#1699#0" expanded="true" />
-            <element signature="e#1748#1749#0" expanded="true" />
-            <element signature="e#1784#1785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Shop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1161#1162#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
-            <element signature="e#1529#1530#0" expanded="true" />
-            <element signature="e#1569#1570#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1637#1638#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1731#1732#0" expanded="true" />
-            <element signature="e#1768#1769#0" expanded="true" />
-            <element signature="e#1803#1804#0" expanded="true" />
-            <element signature="e#1857#1858#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
-            <element signature="e#2037#2038#0" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
-            <element signature="e#2191#2192#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2256#2257#0" expanded="true" />
-            <element signature="e#2283#2284#0" expanded="true" />
-            <element signature="e#2321#2322#0" expanded="true" />
-            <element signature="e#2353#2354#0" expanded="true" />
-            <element signature="e#2389#2390#0" expanded="true" />
-            <element signature="e#2417#2418#0" expanded="true" />
-            <element signature="e#2463#2464#0" expanded="true" />
-            <element signature="e#2497#2498#0" expanded="true" />
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2577#2578#0" expanded="true" />
-            <element signature="e#2639#2640#0" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1035#1036#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductImg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1102#1103#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1388#1389#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#1578#1579#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#1694#1695#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1769#1770#0" expanded="true" />
-            <element signature="e#1802#1803#0" expanded="true" />
-            <element signature="e#1852#1853#0" expanded="true" />
-            <element signature="e#1896#1897#0" expanded="true" />
-            <element signature="e#1933#1934#0" expanded="true" />
-            <element signature="e#1968#1969#0" expanded="true" />
-            <element signature="e#2022#2023#0" expanded="true" />
-            <element signature="e#2070#2071#0" expanded="true" />
-            <element signature="e#2110#2111#0" expanded="true" />
-            <element signature="e#2145#2146#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2250#2251#0" expanded="true" />
-            <element signature="e#2301#2302#0" expanded="true" />
-            <element signature="e#2338#2339#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
-            <element signature="e#2460#2461#0" expanded="true" />
-            <element signature="e#2511#2512#0" expanded="true" />
-            <element signature="e#2549#2550#0" expanded="true" />
-            <element signature="e#2620#2621#0" expanded="true" />
-            <element signature="e#2674#2675#0" expanded="true" />
-            <element signature="e#2703#2704#0" expanded="true" />
-            <element signature="e#2730#2731#0" expanded="true" />
-            <element signature="e#2768#2769#0" expanded="true" />
-            <element signature="e#2800#2801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1132,34 +799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/PersonInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/WechatAuth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1196,147 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/HeadLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1382#1383#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1493#1494#0" expanded="true" />
-            <element signature="e#1528#1529#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-            <element signature="e#1630#1631#0" expanded="true" />
-            <element signature="e#1669#1670#0" expanded="true" />
-            <element signature="e#1698#1699#0" expanded="true" />
-            <element signature="e#1748#1749#0" expanded="true" />
-            <element signature="e#1784#1785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1035#1036#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductImg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1344,108 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1102#1103#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1388#1389#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#1578#1579#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#1694#1695#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1769#1770#0" expanded="true" />
-            <element signature="e#1802#1803#0" expanded="true" />
-            <element signature="e#1852#1853#0" expanded="true" />
-            <element signature="e#1896#1897#0" expanded="true" />
-            <element signature="e#1933#1934#0" expanded="true" />
-            <element signature="e#1968#1969#0" expanded="true" />
-            <element signature="e#2022#2023#0" expanded="true" />
-            <element signature="e#2070#2071#0" expanded="true" />
-            <element signature="e#2110#2111#0" expanded="true" />
-            <element signature="e#2145#2146#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2250#2251#0" expanded="true" />
-            <element signature="e#2301#2302#0" expanded="true" />
-            <element signature="e#2338#2339#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
-            <element signature="e#2460#2461#0" expanded="true" />
-            <element signature="e#2511#2512#0" expanded="true" />
-            <element signature="e#2549#2550#0" expanded="true" />
-            <element signature="e#2620#2621#0" expanded="true" />
-            <element signature="e#2674#2675#0" expanded="true" />
-            <element signature="e#2703#2704#0" expanded="true" />
-            <element signature="e#2730#2731#0" expanded="true" />
-            <element signature="e#2768#2769#0" expanded="true" />
-            <element signature="e#2800#2801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.tld">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.tld" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1457,9 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1467,9 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1504,11 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1528,33 +918,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="418">
           <caret line="22" column="60" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="1406">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/web/superadmin/AreaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
+        <state relative-caret-position="665">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#647#663#0" expanded="true" />
-            <element signature="e#706#712#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/AreaDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="133">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1564,101 +952,231 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/dao/ShopDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.9.RELEASE/spring-test-5.1.9.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="190">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AwardDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="92" column="62" selection-start-line="92" selection-start-column="62" selection-end-line="92" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/HeadLineDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="69" column="65" selection-start-line="69" selection-start-column="65" selection-end-line="69" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/LocalAuthDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="97" column="66" selection-start-line="97" selection-start-column="66" selection-end-line="97" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/PersonInfoDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="105" column="67" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductCategoryDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3135">
+          <caret line="168" column="64" selection-start-line="168" selection-start-column="64" selection-end-line="168" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopAuthMapDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopCategoryDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="73" column="69" selection-start-line="73" selection-start-column="69" selection-end-line="73" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4199">
+          <caret line="224" column="61" selection-start-line="224" selection-start-column="61" selection-end-line="224" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserProductMapDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="127" column="71" selection-start-line="127" selection-start-column="71" selection-end-line="127" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserShopMapDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="132" column="73" selection-start-line="132" selection-start-column="73" selection-end-line="132" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/WechatAuthDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="67" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductImgDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserAwardMapDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="172" column="69" selection-start-line="172" selection-start-column="69" selection-end-line="172" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/UserProductMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Award.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ConstantForSuperAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/HeadLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/PersonInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ProductImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1161#1162#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
-            <element signature="e#1529#1530#0" expanded="true" />
-            <element signature="e#1569#1570#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1637#1638#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1731#1732#0" expanded="true" />
-            <element signature="e#1768#1769#0" expanded="true" />
-            <element signature="e#1803#1804#0" expanded="true" />
-            <element signature="e#1857#1858#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
-            <element signature="e#2037#2038#0" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
-            <element signature="e#2191#2192#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2256#2257#0" expanded="true" />
-            <element signature="e#2283#2284#0" expanded="true" />
-            <element signature="e#2321#2322#0" expanded="true" />
-            <element signature="e#2353#2354#0" expanded="true" />
-            <element signature="e#2389#2390#0" expanded="true" />
-            <element signature="e#2417#2418#0" expanded="true" />
-            <element signature="e#2463#2464#0" expanded="true" />
-            <element signature="e#2497#2498#0" expanded="true" />
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2577#2578#0" expanded="true" />
-            <element signature="e#2639#2640#0" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopAuthMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/ShopCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyuanyuan/shop/entity/UserShopMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-jdbc/5.1.9.RELEASE/spring-jdbc-5.1.9.RELEASE.jar!/org/springframework/jdbc/support/AbstractFallbackSQLExceptionTranslator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zyuanyuan/shop/dao/ShopDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="59">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
